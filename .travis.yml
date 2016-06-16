@@ -9,3 +9,5 @@ install:
 script:
   - pep8 .
 
+notifications:
+  slack: zzsza:4SGISU3CyIO9S4U7WC8ExmIJ
